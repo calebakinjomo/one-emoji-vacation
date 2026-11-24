@@ -1,6 +1,6 @@
 """One Emoji, One Dream Vacation — make.fun bounty entry.
 
-Prints exactly one emoji and writes the same emoji to entry.txt.
+Prints exactly one emoji and writes that same emoji to entry.txt.
 Python 3 standard library only.
 """
 
